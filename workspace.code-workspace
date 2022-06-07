@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "E:\\Proyectos Web 2.0\\ladingPepsi"
+		},
+		{
+			"path": "D:\\programacion\\laCamadaVencida"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "ladingPepsi"
+	}
+}
